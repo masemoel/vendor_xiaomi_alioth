@@ -564,6 +564,7 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.misys-V2.0-java \
     vendor.xiaomi.hardware.misys-V4.0-java \
     vendor.xiaomi.hardware.misys.V3_0 \
+    camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
     manifest_vendor.dolby.hardware.dms \
     vendor.xiaomi.hardware.misys@1.0 \
